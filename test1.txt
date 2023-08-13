@@ -1,2 +1,2 @@
 this is my text file
-test file another line addedd
+test file another line added
