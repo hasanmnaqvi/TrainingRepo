@@ -1,2 +1,2 @@
-this is my text file
+this is my text file. file changed by dev2
 test file another line added
